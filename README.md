@@ -1,4 +1,4 @@
-# Third_Umpire_Decision_Review_System
+# Third_Umpire_Decision_Review_System(Python)
 Third_Umpire_Decision_Review_System_DRS_Using_Python
 
 Uisng Tkinter, Open CV, functools partial, time, pillow (PIL Image), imutils
